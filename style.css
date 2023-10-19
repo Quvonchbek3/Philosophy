@@ -25,6 +25,9 @@ color: #fff;
 .icons a{
     color: black;
 }
+.icon a:hover{
+    opacity: 0.7;
+}
 .phil{
     font-size: 50px;
     margin-left: 250px;
@@ -34,6 +37,9 @@ color: #fff;
     margin-left: 200px;
     color: #fff;
     margin-top: -3px;
+}
+.searc a:hover{
+    opacity: 0.7;
 }
 .sear{
     margin-left: 10px;
